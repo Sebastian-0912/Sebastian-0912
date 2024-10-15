@@ -13,7 +13,7 @@ I'm a senior with a focus on artificial intelligence, loving doing research.
 - 👯 I’m looking to collaborate on open-source projects and innovative app ideas
 - 🤔 I’m looking for help with expanding my knowledge in backend development
 - 💬 Ask me about React Native, TypeScript, and combinatorial optimization problems
-- 📫 How to reach me: [Email](sebastianedu912@gmail.com)
+- 📫 How to reach me: [Email](mailto:sebastianedu912@gmail.com)
 <!-- - 😄 Pronouns: [Your Pronouns] (you can add this) -->
 - ⚡ Fun fact: I co-authored a [paper](https://arxiv.org/abs/2311.05196) presented at the 112th NCS
 
