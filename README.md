@@ -77,9 +77,8 @@ I'm a senior with a focus on artificial intelligence, loving doing research.
 -->
 ## 📫 Contact
 
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile) (you can add this)
-- [Twitter](https://twitter.com/your-handle) (you can add this)
+- [Email](mailto:sebastianedu912@gmail.com)
+- [LinkedIn](https://www.linkedin.com/feed/)
 
 ## 🖥️ Work Experience
 
