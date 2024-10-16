@@ -30,6 +30,7 @@ I'm a senior with a focus on artificial intelligence, loving doing research.
 
 - React Native
 - Express
+- Pytorch
 
 ### Tools
 
@@ -39,6 +40,7 @@ I'm a senior with a focus on artificial intelligence, loving doing research.
 ### Databases
 
 - MySQL
+- PostgreSQL
 
 <!-- ## 📈 GitHub Stats
 
